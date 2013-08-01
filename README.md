@@ -7,16 +7,16 @@ Usage
 I will explain usage using an example.
 for e.g. you want to created below HTML structure using this html-tag-builder:
 
-<tr>
-  <td class="question">Do you love sublime text editor?</td>
-  <td>
-    <input type="radio" value="Yes" id="BS003.0" name="BS003.0"> Yes &nbsp;&nbsp;
-    <input type="radio" value="No" id="BS003.0" name="BS003.0"> No
-  </td>
-  <td class="description">
-    <textarea maxlength="20" class=""></textarea>
-  </td>
-</tr>
+&lt;tr&gt;
+  &lt;td class="question"&gt;Do you love sublime text editor?&lt;/td&gt;
+  &lt;td&gt;
+    &lt;input type="radio" value="Yes" id="BS003.0" name="BS003.0"&gt; Yes &nbsp;&nbsp;
+    &lt;input type="radio" value="No" id="BS003.0" name="BS003.0"&gt; No
+  &lt;/td&gt;
+  &lt;td class="description"&gt;
+    &lt;textarea maxlength="20" class=""&gt;&lt;/textarea&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
 
 You can build above structure with html-tag-builder:
 
