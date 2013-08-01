@@ -18,7 +18,7 @@ for e.g. you want to created below HTML structure using this html-tag-builder:
   </td>
 </tr>
 
-You can build above structure with html-tab-builder:
+You can build above structure with html-tag-builder:
 
 var answerElId = 'BS003.0';
 var radioButtonTd = new element('td');
